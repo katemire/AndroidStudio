@@ -1,0 +1,5 @@
+ru.student.lab1:id/resultText = 0x7f010002
+ru.student.lab1:style/AppTheme = 0x7f030000
+ru.student.lab1:layout/activity_main = 0x7f020000
+ru.student.lab1:id/processButton = 0x7f010001
+ru.student.lab1:id/inputText = 0x7f010000
