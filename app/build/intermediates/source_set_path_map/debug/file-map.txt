@@ -1,8 +1,0 @@
-ru.student.lab1.app-pngs-0 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\build\generated\res\pngs\debug
-ru.student.lab1.app-resValues-1 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\build\generated\res\resValues\debug
-ru.student.lab1.app-rs-2 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\build\generated\res\rs\debug
-ru.student.lab1.app-mergeDebugResources-3 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-ru.student.lab1.app-mergeDebugResources-4 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-ru.student.lab1.app-merged_res-5 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\build\intermediates\merged_res\debug
-ru.student.lab1.app-debug-6 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\src\debug\res
-ru.student.lab1.app-main-7 C:\Users\otdel\AndroidStudioProjects\1lb-Mob\app\src\main\res
